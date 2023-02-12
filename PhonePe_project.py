@@ -155,7 +155,7 @@ selected_district = st.selectbox("Select District", filtered_data["District Name
 filtered_data = filtered_data[filtered_data["District Name"] == selected_district]
 
 # Load the India map data
-india_map_data = 'path/to/india_map_data.geojson'
+india_map_data = 'https://gist.githubusercontent.com/jbrobst/56c13bbbf9d97d187fea01ca62ea5112/raw/e388c4cae20aa53cb5090210a42ebb9b765c0a36/india_states.geojson'
 
 # Create a choropleth map
 fig = go.Figure(go.Choroplethmapbox(
