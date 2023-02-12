@@ -1,0 +1,14 @@
+Step: 1 
+Navigate to the folder you want to clone the Github repository. 
+
+Step: 2 
+Hold ctrl key and Right click in the blank space, and click on the open terminal here option. 
+
+Step: 3 
+Type in code and hit enter. 
+git clone https://github.com/PhonePe/pulse 
+
+Note(You must have git packages installed on your computer)
+
+Alternatively step: 
+You can also enter the code inside the terminal of your Python IDE, the cloned repository will be stored in this directory of your Python file. 
