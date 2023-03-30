@@ -1,4 +1,4 @@
-Geo-Visualization-and-Exploration-with-PhonePe-Pulse
+#Geo Visualization and Exploration with PhonePe Pulse
 
 To begin with, I extracted the data from the Phonepe Pulse Github repository through scripting and cloned it. The data was stored in a suitable format such as CSV or JSON. I used Python and Pandas library to manipulate and pre-process the data, which included cleaning the data, handling missing values, and transforming the data into a format suitable for analysis and visualization.
 
